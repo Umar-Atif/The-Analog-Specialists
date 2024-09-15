@@ -13,10 +13,11 @@
     font-size: 1.1rem;
     color: rgb(160, 43, 43);
 }
-body{
+.main-div{
     text-align: center;
     border: 5px solid  rgb(129, 53, 53);
     background-color: rgb(255, 247, 237);
+    padding-bottom: 175px;
 }
 html{
     size: 62.5%;
@@ -26,13 +27,13 @@ html{
 /* hr{
     color: rgb(160, 43, 43);
 } */
- .p{
+.p{
     word-spacing: 3rem;
     font-size: 1.2rem;
     color: rgb(160, 43, 43);
- }
- p{
+}
+p{
     margin: 0;
     font-size: 1.2rem;
     color: rgb(160, 43, 43);
- }
+}
